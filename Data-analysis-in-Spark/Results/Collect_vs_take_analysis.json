@@ -1,0 +1,1 @@
+{"m1": 1.345775842666626, "m2": 0.025729894638061523, "explanation": "The collect method, collects all the data from the worker node and in this case performs sorting on all the data and then we print 10 result, while the take method with number of elements only picks (10 in this case) those elements and sorts them accordingly, hence this takes less time as compared to collect"}
